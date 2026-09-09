@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+ #!/usr/bin/env python3
 """Scaffold a plugin directory and optionally update marketplace.json."""
 
 from __future__ import annotations
